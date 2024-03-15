@@ -1,0 +1,1 @@
+const mainVar = 111;
